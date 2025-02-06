@@ -1,11 +1,6 @@
 
 
 import './App.css';
-import AddStudent from './components/AddStudent';
-import DisplayStudents from './components/DisplayStudents';
-import SearchStudent from './components/SearchStudent';
-import ModifyStudent from './components/ModifyStudent';
-import RemoveStudent from './components/RemoveStudent';
 
 import React, { useState, useEffect } from "react";
 import axios from "axios";
