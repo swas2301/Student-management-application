@@ -1,7 +1,7 @@
-# Student Management System
+# Student Management Application
 
 ## 📌 Project Overview
-The **Student Management System** is a full-stack web application built with **Spring Boot** for the backend and **React** for the frontend. It allows users to perform CRUD (Create, Read, Update, Delete) operations on student records.
+The **Student Management Application** is a full-stack web application built with **Spring Boot** for the backend and **React** for the frontend. It allows users to perform CRUD (Create, Read, Update, Delete) operations on student records.
 
 ## ✨ Features
 - 📌 **Add a new student** with name, age, class, and phone number.
@@ -45,11 +45,8 @@ git clone https://github.com/swas2301/student-management.git
    spring.datasource.password=yourpassword
    spring.jpa.hibernate.ddl-auto=update
    ```
-2. **Build and Run the Application**
-   ```bash
-   mvn clean install
-   mvn spring-boot:run
-   ```
+2. **Build and Run the SpringBoot application using Eclipse**
+   
 
 ### **3️⃣ Frontend Setup (React)**
 1. Navigate to the frontend folder:
